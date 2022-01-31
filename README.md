@@ -14,4 +14,8 @@ Project 2: Finding differentials with Area
   
   File:  https://github.com/awangberg/Calculus-Projects/blob/main/Finding_changes_in_area_and_power_functions.ipynb
   
+Project 3:  Finding changes in Functions
+
+  Find the relationship between $dx$ and $df$ for exponential, logarithm, sine, and cosine functions
   
+  File:  https://github.com/awangberg/Calculus-Projects/blob/main/Finding_changes_in_functions.ipynb
