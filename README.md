@@ -19,3 +19,11 @@ Project 3:  Finding changes in Functions
   Find the relationship between $dx$ and $df$ for exponential, logarithm, sine, and cosine functions
   
   File:  https://github.com/awangberg/Calculus-Projects/blob/main/Finding_changes_in_functions.ipynb
+
+# Project for Quiz 1:  
+
+  Students fit a function to data for the spread of oil on the ocean. They also calculate the change in the spread
+  by computing the change and fitting a function to that change, and also by using differentials.  They discuss whether
+  their two answers are the same or different.
+
+   File: https://github.com/awangberg/Calculus-Projects/blob/main/Project_1.ipynb
