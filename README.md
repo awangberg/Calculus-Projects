@@ -33,5 +33,5 @@
   We develop two ways to approximate functions.  The first method uses several segments.  The second method uses several derivatives.
   The calculations are done in DESMOS; The COLAB page provides space to save work.
   
-    File:  https://github.com/awangberg/Calculus-Projects/blob/main/Linear_and_higher_order_approximation.ipynb
+    File: https://github.com/awangberg/Calculus-Projects/blob/main/Linear_and_higher_order_approximation.ipynb
     
