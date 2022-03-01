@@ -27,3 +27,11 @@ Project 3:  Finding changes in Functions
   their two answers are the same or different.
 
    File: https://github.com/awangberg/Calculus-Projects/blob/main/Project_1.ipynb
+   
+Project 5:  Expanding upon Linear Approximation for functions
+
+  We develop two ways to approximate functions.  The first method uses several segments.  The second method uses several derivatives.
+  The calculations are done in DESMOS; The COLAB page provides space to save work.
+  
+    File:  https://github.com/awangberg/Calculus-Projects/blob/main/Linear_and_higher_order_approximation.ipynb
+    
