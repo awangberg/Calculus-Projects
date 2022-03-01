@@ -1,6 +1,6 @@
 # Calculus-Projects
 
-Project 1:  Ball Drop in the WSU Atrium
+## Project 1:  Ball Drop in the WSU Atrium
 
   Plot the position and the velocity of a ball being dropped from the third floor in the WSU Atrium
 
@@ -8,13 +8,13 @@ Project 1:  Ball Drop in the WSU Atrium
 
   Project 1 Write-up:  https://github.com/awangberg/Calculus-Projects/blob/main/Writeup_of_Ball_Drop_Data_in_the_WSU_Atrium.ipynb
 
-Project 2: Finding differentials with Area
+## Project 2: Finding differentials with Area
 
   Find the relationship between $dA$, $s$, and $ds$ for $A = s^2$, and several other power functions
   
   File:  https://github.com/awangberg/Calculus-Projects/blob/main/Finding_changes_in_area_and_power_functions.ipynb
   
-Project 3:  Finding changes in Functions
+## Project 3:  Finding changes in Functions
 
   Find the relationship between $dx$ and $df$ for exponential, logarithm, sine, and cosine functions
   
@@ -28,7 +28,7 @@ Project 3:  Finding changes in Functions
 
    File: https://github.com/awangberg/Calculus-Projects/blob/main/Project_1.ipynb
    
-Project 5:  Expanding upon Linear Approximation for functions
+## Project 5:  Expanding upon Linear Approximation for functions
 
   We develop two ways to approximate functions.  The first method uses several segments.  The second method uses several derivatives.
   The calculations are done in DESMOS; The COLAB page provides space to save work.
