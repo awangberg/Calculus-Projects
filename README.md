@@ -39,4 +39,4 @@
 
   For Part (A), students generate approximations to the function $y = ln(x)$.  For Part (B), students solve a related rates problem both computationally and algebraically.
 
-   File: https://github.com/awangberg/Calculus-Projects/blob/main/Project_2_Related_Rates%2C_Optimization%2C_and_Linear_Approximation.ipynb
+   File: https://github.com/awangberg/Calculus-Projects/blob/main/Project_2_Related_Rates_and_Linear_Approximation.ipynb
