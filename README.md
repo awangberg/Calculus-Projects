@@ -35,3 +35,8 @@
   
    File: https://github.com/awangberg/Calculus-Projects/blob/main/Linear_and_higher_order_approximation.ipynb
     
+# Project for Quiz 2:  
+
+  For Part (A), students generate approximations to the function $y = ln(x)$.  For Part (B), students solve a related rates problem both computationally and algebraically.
+
+   File: https://github.com/awangberg/Calculus-Projects/blob/main/Project_1.ipynb
