@@ -40,3 +40,9 @@
   For Part (A), students generate approximations to the function $y = ln(x)$.  For Part (B), students solve a related rates problem both computationally and algebraically.
 
    File: https://github.com/awangberg/Calculus-Projects/blob/main/Project_2_Related_Rates_and_Linear_Approximation.ipynb
+   
+## Project 6:  Sally's Walk - Determining Change in Position from Velocity
+
+  We use sums to find the total change in position for Sally from her velocity data.  This is done both using Desmos and Google Sheets.
+  
+    File: https://github.com/awangberg/Calculus-Projects/blob/main/Sally's_10_minute_walk.ipynb
