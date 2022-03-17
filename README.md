@@ -46,3 +46,5 @@
   We use sums to find the total change in position for Sally from her velocity data.  This is done both using Desmos and Google Sheets.
   
     File: https://github.com/awangberg/Calculus-Projects/blob/main/Sally's_10_minute_walk.ipynb
+    
+ 
