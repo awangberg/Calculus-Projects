@@ -46,5 +46,13 @@
   We use sums to find the total change in position for Sally from her velocity data.  This is done both using Desmos and Google Sheets.
   
   File: https://github.com/awangberg/Calculus-Projects/blob/main/Sally's_10_minute_walk.ipynb
+  
+# Project for Quiz 3:
+
+  Students fit a model of a density function given a the locations of the function's maximum and minimum values.  Then, they create various estimates using Riemann Sums of the total mass of chocolate packed into the middle of a pretzel stick which is $24 cm$ long.
+  
+  File: https://github.com/awangberg/Calculus-Projects/blob/main/Project_3_Accumulation.ipynb
+  
+  
     
  
